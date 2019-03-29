@@ -504,8 +504,8 @@
     704330597f69528ce5f52cdadc229d98c454161554f835ced4c2ac5894c3d7c4  x86_64-w64-mingw32/crate_winapi_i686_pc_windows_gnu/crate_winapi_i686_pc_windows_gnu-0.4.0-2a5c4fc2124.tar.gz.hash
     904bc27fe1d8f1cb74bca8c2ee3718fbfdda35c051364de9625d57e6edabf078  x86_64-w64-mingw32/crate_winapi_x86_64_pc_windows_gnu/crate_winapi_x86_64_pc_windows_gnu-0.4.0-e347c5d6819.tar.gz
     1cd9dca3cf2be8768e1b2b554ceefba453b81ce8ef863d1d763b263a40610f01  x86_64-w64-mingw32/crate_winapi_x86_64_pc_windows_gnu/crate_winapi_x86_64_pc_windows_gnu-0.4.0-e347c5d6819.tar.gz.hash
-    1e0b3306399733c8596a3992314c23adfdfd33525463c0a089cd0426f492ebcd  x86_64-w64-mingw32/curl/curl-7.64.0-8e1c091e125.tar.gz
-    f0c342c3e386aa0aced6e5f47126b308e65a08141a5f8925361189002cfae2b8  x86_64-w64-mingw32/curl/curl-7.64.0-8e1c091e125.tar.gz.hash
+    6db46a87b6e2f58b58adc7245971a26add546804871d88b43a83317386817526  x86_64-w64-mingw32/curl/curl-7.64.0-8e1c091e125.tar.gz
+    a0a3e8227697cf71d79ef0893a6206e886fd7a93541b07913d454328678f2662  x86_64-w64-mingw32/curl/curl-7.64.0-8e1c091e125.tar.gz.hash
     9a9996f0440e0149a95666228d2890c789d98ff16635f8b37ec721c6a193c479  x86_64-w64-mingw32/googletest/googletest-1.8.0-564d69003ef.tar.gz
     ee5a554d6381ca3657295f98971e4b45b6eca4dbc1e6abfad768fa56dca20117  x86_64-w64-mingw32/googletest/googletest-1.8.0-564d69003ef.tar.gz.hash
     6c8deef4299450cd7b53bc5a2d7a082a6227a3de2ad6993be72bb03038eccc2c  x86_64-w64-mingw32/libevent/libevent-2.1.8-48b75332c23.tar.gz
